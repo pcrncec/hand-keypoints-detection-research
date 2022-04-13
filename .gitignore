@@ -1,0 +1,6 @@
+hand_detection/__pycache__/
+hand_detection/models/__pycache__/
+keypoints_detection/__pycache__/
+keypoints_detection/experimental_models/__pycache__/
+keypoints_detection/experimental_models/common/__pycache__/
+keypoints_detection/models/__pycache__/
